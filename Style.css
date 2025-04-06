@@ -90,9 +90,7 @@ ul li a:hover {
     transition: left 2s ease; 
 }
 
-.image:hover .sarambaw {
-    left: 55%; 
-}
+
 
 .icons ion-icon{
     margin-left: 6%;
